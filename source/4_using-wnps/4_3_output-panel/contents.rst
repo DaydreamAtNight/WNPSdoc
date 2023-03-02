@@ -1,7 +1,13 @@
 4.3. Output panel
 =================
 
-The output panel embed the matplotlib toolbar [7]_ and buttons, and this
+|image0|
+
+|image1|
+
+|image2|
+
+The output panel embeds the matplotlib toolbar [7]_ and buttons, and this
 embedded version works very much like it. It is very convenient to zoom
 in/out, change the figure configuration, figure options, legend name,
 etc.
@@ -73,3 +79,7 @@ WNPS are also capable of
 .. [7]
    `Interactive navigation — Matplotlib 3.2.2
    documentation <https://matplotlib.org/3.2.2/users/navigation_toolbar.html>`__
+
+.. |image0| image:: ../../images/output\ panel\ tool\ bar.png
+.. |image1| image:: ../../images/Figure\ layout.png
+.. |image2| image:: ../../images/Figure\ option.png
